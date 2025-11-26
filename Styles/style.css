@@ -548,6 +548,28 @@ footer{
     }
 }
 @media (max-width: 480px){
+    .triyuer{
+        width: 20%;
+    }
+    .iooo {
+        width: 22%;
+    }
+    .dos {
+        grid-template-columns: 1fr;
+        text-align: center;
+    }
+    .ihfhdd {
+        width: 29%;
+    }
+    .htgyfgh {
+        width: 36%;
+    }
+    .hj p{
+        font-size: 13px;
+    }
+    .triyuer {
+        width: 34%;
+    }
     .one h2 {
         font-size: 25px;
     }
@@ -565,9 +587,6 @@ footer{
         font-size: 10px;
     }
     /*  */
-    .htgyfgh {
-        width: 40%;
-    }
     /*  */
     .lip {
         padding: 6% 0 3% 0;
